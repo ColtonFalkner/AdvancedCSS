@@ -1,1 +1,1 @@
-Tracking my progress throuhg Jonas Schmedtmann's Advanced CSS and SASS Course
+A mockup landing page for a fictional nature tour travel service. 
